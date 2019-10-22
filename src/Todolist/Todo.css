@@ -1,0 +1,55 @@
+.inpBox{
+    background-color: rgb(50,50,50);
+    height:50px;
+}
+.inpBox label{
+    float: left;
+    margin-left: 335px;
+    color: #DDD;
+    font-size:25px;
+    line-height:50px ;
+}
+.inpBox input{
+    width: 345px;
+    height: 20px;
+    border-radius: 5px;
+    margin-left:165px;
+    margin-top: 12px;
+    float: left;
+}
+.boxTo{
+    width: 600px;
+    margin: 0 auto;
+}
+.boxTo h2{
+    position: relative;
+}
+.boxTo h2 span{
+    position: absolute;
+    top: 2px;
+    right: 5px;
+    padding: 0 5px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: rgb(230,230,250);
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+}
+ol{
+    list-style: none;
+    padding:0;
+}
+ol li{
+    width: 600px;
+    height: 30px;
+    border-radius: 3px;
+    border-left: 5px solid #629A9C;
+    background-color: #fff;
+    margin-bottom: 5px;;
+}
+ol li button{
+    margin-left:520px;
+    border: none;
+    color: rgb(121, 179, 245);
+}
